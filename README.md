@@ -1,8 +1,11 @@
 ## allenxch
 ### wuh
 pronouns: they, them, he, her
+
 functional programming enthuiast.
-them don't like OOP
+
+them don't like OOP, but like design patterns.
+
 they are dumbest kid in kindergarten(still dumb tho)
 
 ### Languages:
