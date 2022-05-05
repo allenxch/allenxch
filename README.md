@@ -1,9 +1,9 @@
 ## allenxch
 ### wuh
-pronouns: they, them
-passionate functional programming student
-doesn't like OOP
-dumbest kid in kindergarten(still dumb tho)
+pronouns: they, them, he, her
+functional programming enthuiast.
+them don't like OOP
+they are dumbest kid in kindergarten(still dumb tho)
 
 ### Languages:
 - Lambda Calculus for aesthetics and transcendence. Just in case you don't know, Alonzo Church's discovery(cuz it's too good to be artificial) is much much more elegant than his padawan's tape-eating amalgamation of zeros and ones. If there's a language that describes the universe, I don't think it's math. It's probably some adaptation of typeless Lambda Calculus. 
